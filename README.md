@@ -5,4 +5,5 @@ Includes experience with translating engineering problems into probabilistic mod
 Prepares students for upper-level electives that use probabilistic reasoning.
 
 Cats and Dogs Images Classificaiton Challenge
+
 [Pet Classification Challenge.pdf](https://github.com/DabinJang96/EK381/files/7340904/HW10Jang.pdf)
